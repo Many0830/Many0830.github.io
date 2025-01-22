@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "我の个人主页"#标题
 title_separator          : "-"
-name                     : &name "Many0830"
-description              : &description "21世纪的一个理想主义者"
+name                     : "Many0830"
+description              : "21世纪的一个理想主义者"
 url                      : "https://github.com/Many0830 " #https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Many0830?tab=repositories"
@@ -63,7 +63,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            :"Dodo"
+  steam            : "Dodo"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -71,8 +71,8 @@ author:
   weibo            : "Many"
   wikipedia        : "Many"
   xing             : # Username
-  youtube          :"Many4069"
-  zhihu            :"Dodo"
+  youtube          : "Many4069"
+  zhihu            : "Dodo"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
