@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "许多"
-  pronouns         : "he"# example: "she/her"  
+  pronouns         : "he"
   bio              : "人民万岁!"
   location         : "黑龙江省佳木斯市"
   employer         : "于第五中学毕业"
@@ -72,7 +72,7 @@ author:
   wikipedia        : "Many"
   xing             : # Username
   youtube          :"Many4069"
-  zhihu            : "Dodo"
+  zhihu            :"Dodo"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
