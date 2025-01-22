@@ -12,7 +12,7 @@ title                    : "我の个人主页"#标题
 title_separator          : "-"
 name                     : &name "Many0830"
 description              : &description "21世纪的一个理想主义者"
-url                      : "https://github.com/Many0830 "#https://[your GitHub username].github.io"
+url                      : "https://github.com/Many0830 " #https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Many0830?tab=repositories"
 
